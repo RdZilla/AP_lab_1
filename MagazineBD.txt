@@ -1,0 +1,4 @@
+Number: 1, publishing house: Conde Nast Publications, title: Vogue January, year:2019
+Number: 2, publishing house: Hearst Magazines, title: Esquire Brodsky, year:2019
+Number: 3, publishing house: Conde Nast Publications, title: Vogue September, year:2021
+Number: 4, publishing house: Hearst Magazines, title: Esquire Tsoy, year:2020

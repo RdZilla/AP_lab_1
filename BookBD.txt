@@ -1,0 +1,4 @@
+Number - 1, book - Erich Maria Remarque Three Comrades, year - 1936
+Number - 2, book - Erich Maria Remarque All Quiet on the Western Front, year - 1930
+Number - 3, book - Fedor Dostoevsky The Gambler, year - 1866
+Number - 4, book - Stephen Edwin King The Shining, year - 1977

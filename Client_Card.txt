@@ -1,0 +1,1 @@
+{"Client": [{"ClientId": "1", "FIO": "Ivanov Ivan Ivanovich", "BookId": ["1", "2"], "MagazineId": ["1", "2"]}, {"ClientId": "2", "FIO": "Petrov Petr Petrovich", "BookId": ["3", "4"], "MagazineId": []}]}

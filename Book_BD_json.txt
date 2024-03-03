@@ -1,0 +1,28 @@
+{"Books": 
+	[
+		{
+			"number": "1", 
+			"author": "Erich Maria Remarque",
+			"title": "Three Comrades",
+			"year": "1936"
+		},
+		{
+			"number": "2", 
+			"author": "Erich Maria Remarque",
+			"title": "All Quiet on the Western Front",
+			"year": "1930"
+		},
+		{
+			"number": "3", 
+			"author": "Fedor Dostoevsky",
+			"title": "The Gambler",
+			"year": "1866"
+		},
+		{
+			"number": "4", 
+			"author": "Stephen Edwin King",
+			"title": "The Shining",
+			"year": "1977"
+		}	
+	]
+}
